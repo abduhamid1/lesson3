@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+table{
+  width: 800px;
+  margin: 20px auto;
+  border-collapse: collapse;
+  text-align: center;
+ 
+}
+
+thead{
+  background: rgba(0,0,0,0.3);
+  
+}
+
+td:hover{
+background: rgba(0, 0, 0, 0.102);
+}
+
+.line__2{
+  background: aqua;
+}
+
+
+.two{
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
